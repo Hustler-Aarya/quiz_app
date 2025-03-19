@@ -133,7 +133,7 @@ var quiz = {
     },
     {
     "id": 10,
-    "question": "How to write an IF statement for executing some code if &quot;i&quot; is NOT equal to 5?",
+    "question": "How to write an IF statement 5?",
     "options": [
     {
     "a": "if (i <> 5)",
